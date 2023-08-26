@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "title": "bmx-transmission",
+            "description": "This is an Angular2+ utility library to handle api calls and data manipulation for each step of the api call such as pre-execute, post-execute, on-success, on failure etc.",
+            "image": "assets/portfolio/angular2.jpg",
+            "github": "https://github.com/bloomscorp/bmx-transmission",
+            "url": "https://www.npmjs.com/package/bmx-transmission"
+        },
+        {
+            "title": "bmx-onepiece",
+            "description": "This is an starter template for expressjs + mongodb backend where user manaement, security management and logging is already implemented with proper documentation and scaffolding.",
+            "image": "assets/portfolio/express.jpg",
+            "github": "https://github.com/bloomscorp/bmx-onepiece",
+            "url": ""
+        },
+        {
+            "title": "python-sorter",
+            "description": "Python library to sort a list of numbers using various sorting algorithms. Also show summary of the execution time for those algorithms.",
+            "image": "assets/portfolio/python.jpg",
+            "github": "https://github.com/Deep-Dey/python-sorter",
+            "url": "https://pypi.org/project/python-sorter"
+        }
+    ]
+}
